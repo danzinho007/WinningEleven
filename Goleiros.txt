@@ -1,0 +1,109 @@
+Lista com preco :
+
+Alonso do Real Madrid = 50 ( 1.71 )
+Barbosa do Vasco = 65
+Botasso da Argentina 30 = 12
+Chilavert do Paraguai = 55
+Dida do Livre = 60 ( 1.95 )
+
+Dudek do Liverpool = 21
+E.Martinez da Argentina = 50 ( 1.95 )
+Garcia do Flamengo = 55
+Gregorini do Marseil = 14
+Higuita do Livre = 70 ( maior )
+
+Kahn da Alemanha = 30
+Lehman do B.Dortmund = 21
+Letizi do PSG = 10 ( menor )
+Marcos do Brasil = 33
+Mundragon do Galatasaray = 35
+
+Molina do Deportivo = 22
+R.Toy do Tomonha = 18
+Raul G P do Cruzeiro = 45
+Reva do D.Kiev = 18
+Rustu da Turquia = 33
+
+Valdir do Palmeiras = 50
+
+Ranking amarelinho :
+6 ( 61 - 70 ) < Preco sugerido 
+Chilavert = 55 ( So )
+R.Tex Tex = 18 ( So )
+Higuita   = 30 ( So )
+5 ( 50 - 60 )
+Alonso    = 50 ( Bom )
+Botasso   = 12 ( So )
+Dida      = 60 ( Caro )
+Dudek     = 21 ( So )
+Garcia    = 55 ( Caro )
+Molina    = 22 ( So )
+Mondragon = 35 ( So )
+Raul G.P  = 45 ( So )
+Rustu     = 33 ( So )
+Valdir    = 50 ( Bom )
+4 ( 31- 40 )
+Barbosa   = 65 ( Caro )
+Kahn      = 30 ( So )
+3 ( 21 - 30 )
+Lehman   = 21 ( Bom )
+Letizi   = 10 ( So )
+Marcos   
+Reva     = 18 ( Bom )
+2 ( 15 - 20 )
+E.Martinez = 50 ( Caro )
+Gregorini  = 14 ( Bom )
+
+Lista com preço e ( altura dos destaques ) :
+
+Alonso do Real Madrid = 50 ( 1.71 )
+Barbosa do Vasco = 65
+Botasso da Argentina 30 = 12
+Chilavert do Paraguai = 55
+Danrlei do Grêmio = 18 NOVO
+Dida do Livre = 60 ( 1.95 )
+
+Dudek do Liverpool = 21
+E.Martinez da Argentina = 50 ( 1.95 )
+Garcia do Flamengo = 55
+Gregorini do Marseil = 14
+Higuita do Livre = 70 ( maior )
+
+J.César do Flamengo = 22 NOVO
+Kahn da Alemanha = 30
+Lehman do B.Dortmund = 21
+Letizi do PSG = 10 ( menor )
+Maizena do Fortaleza = 16 NOVO
+Marcos do Brasil = 33
+Marcos do Palmeiras = 26 NOVO
+Mundragon do Galatasaray = 35
+
+Molina do Deportivo = 22
+R.Ceni do São Paulo = 20 NOVO
+R.Toy do Tomonha = 18
+Raul G P do Cruzeiro = 45
+Reva do D.Kiev = 18
+Rustu da Turquia = 33
+
+Valdir do Palmeiras = 50 
+
+
+Marcos 33 vs Marcos 26
+13 - 14
+18(1) - 18(1)
+18(2) - 18(2)
+14 - 14
+16 - 16
+16 - 16
+15 - 15
+16 - 16
+13 - 15
+16 - 17(3)
+13 - 14
+14 - 15
+13 - 14
+12 - 14
+19(3) - 17(4)
+193 - 193
+33 - 26
+Resultado : Marcos 26 9x2 Marcos 33
